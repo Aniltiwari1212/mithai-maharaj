@@ -1,0 +1,98 @@
+@media (max-width:1199.98px){
+    .header_sec .navbar .nav-item {
+        padding-right: 10px;
+    }
+    .header_sec .navbar .navbar-nav .nav-link {
+        font-size: 13px;
+    }
+    .navbar-brand {
+        max-width: 200px;
+    }
+    .header_sec .custom_btn{padding: 14px 20px;}
+    .main_head {
+        font-size: 32px;
+    }
+}
+@media (min-width:992px){
+   
+    
+}
+@media (min-width:1200px){
+    .header_sec .navbar .container-fluid {
+        padding: 0 0 0 15px;
+    }
+    .navbar-brand {
+        margin-right: 50px;
+        max-width: 180px;
+        height: 60px;
+    }
+    .col5_row > div{width: 20%;}
+    .benifit_cntnt {
+        padding: 30px 9% 30px 15%;
+    }
+}
+@media (max-width:991.98px){
+    .navbar-brand {
+        max-width: 140px;
+    }
+    .header_sec .navbar-collapse {
+        padding: 10px 0 0;
+    }
+    .header_sec .navbar-nav {
+        position: relative;
+        margin-bottom: 15px;
+    }
+    .header_sec .navbar .nav-item:not(:last-child) {
+        padding-right: 0;
+        margin: 0;
+    }
+    .header_sec .navbar .nav-item {
+        width: 100%;
+        border-bottom: 1px solid #ccc;
+    }
+    .header_sec .navbar .navbar-nav .nav-link {
+        font-size: 14px;
+        padding: 10px 0;
+    }
+    .header_sec .navbar-nav {
+        padding: 5px;
+        border-radius: 10px;
+        margin-bottom: 20px !important;
+    }
+    .header_sec .navbar-light .navbar-toggler {
+        padding: 5px 9px;
+        border: 1px solid #0365d3;
+    }
+    .footer_sec, .paddTB_70 {
+        padding: 50px 0;
+    }
+}
+
+@media (max-width:767.98px){
+    .call_btn .fa{margin-right: 0;}
+    .btn_group {
+        margin-top: 20px;
+    }
+    .footer_menu {
+        margin: 20px 0 10px;
+    }
+    .footr_head {
+        font-size: 20px;
+    }
+    .footer_sec .social_icon {
+        margin-top: 20px;
+    }
+    .btn_group .custom_btn:not(:last-child) {
+        margin: 0 0 10px;
+    }
+    .sec_head {
+        font-size: 28px;
+        margin-bottom: 30px;
+    }
+    .custom_row > div {
+        margin-bottom: 14px;
+    }
+
+}
+
+
